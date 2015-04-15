@@ -1,3 +1,7 @@
+body {
+  text-align: center;
+}
+
 .image_box {
   width: 420px;
   margin: 50px auto;
